@@ -5,10 +5,12 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
+
 ## 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
 ## 👨‍💻 Skills & Experiance: 
+
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="Wordpress" height="30" width="30" /> WordPress
 
 <img align="center" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" height="30" width="30" /> JavaScript
