@@ -2,8 +2,7 @@
 
 <p>
 👑 I am a Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p>
+🖊️ Love to write code </p>
 
 
 ## 🚀 About Me
